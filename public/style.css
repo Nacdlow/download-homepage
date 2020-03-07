@@ -2,17 +2,10 @@
 body {
   font-family: "Lucidia Grande", "Segoe UI", "Roboto", sans-serif;
   font-size: 1.2em;
-  margin: 0;
-  background-color: #fefefe;
-}
-
-.container {
   max-width: 1250px;
   position: relative;
   margin: 0 auto;
-}
-
-.content {
+  background-color: #fefefe;
   padding: 20px 30px;
 }
 
@@ -54,6 +47,7 @@ img {
   padding: 3px 5px; 
   border: #ccc 1px solid;
   text-decoration: none;
+  margin-bottom: 5px;
 }
 
 .btn:focus {
